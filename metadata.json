@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A clean, high-precision Weather Intelligence App providing live weather tracking, 7-day forecasting, and AI-driven travel and clothing recommendations powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
